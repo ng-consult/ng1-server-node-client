@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "allowUnreachableCode": false,
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "declaration": false,
+    "diagnostics": true,
+    "listFiles": false,
+    "pretty": true,
+    //"traceResolution": true,
+    "moduleResolution": "node",
+    "removeComments": true,
+    "watch": false,
+    "preserveConstEnums": true
+  },
+  "files": [
+    "typings/index.d.ts",
+    "src/client.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

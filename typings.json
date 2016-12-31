@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "debug": "registry:dt/debug#0.0.0+20160620211513",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20161228005052"
+  },
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20161229171858",
+    "socket.io-client": "registry:dt/socket.io-client#1.4.4+20161116080703"
+  }
+}
